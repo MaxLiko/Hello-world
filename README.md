@@ -2,11 +2,11 @@
 This is just to try out GitHub an its service.
 This is part of the tutorial and will be edited on a later point in time.
 
-## Headline 2
-hallo
-
 ## User:
 
+* a
+* d
+* f
 * a
 * d
 * f
